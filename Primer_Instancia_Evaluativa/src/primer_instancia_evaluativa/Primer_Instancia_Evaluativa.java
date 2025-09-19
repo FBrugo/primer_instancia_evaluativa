@@ -8,13 +8,10 @@ package primer_instancia_evaluativa;
  *
  * @author fedee
  */
-public class Primer_Instancia_Evaluativa {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Primer_Instancia_Evaluativa {
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("=== Bienvenidos al Casino de Dados ===");
+        System.out.println("WIP: Se irán integrando las funcionalidades en próximos commits.");
     }
-    
 }
