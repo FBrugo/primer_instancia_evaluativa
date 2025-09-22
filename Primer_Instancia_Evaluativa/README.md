@@ -1,6 +1,6 @@
-# 🎲 Casino de Dados - 1° Instancia Evaluativa
+#  Casino de Dados - 1° Instancia Evaluativa
 
-## 🎮 Cómo jugar
+##  Cómo jugar
 1. El programa pide:
    - Cantidad de jugadores (2–4, sin contar al Casino).
    - Nombre real, apodo validado, tipo de jugador (Novato, Experto o VIP).
@@ -24,9 +24,7 @@
 4. El juego termina a las 3 rondas o cuando un jugador se queda sin dinero.
 
 ---
-
-## 🤖 Prompts utilizados con IA
-Durante el desarrollo pedimos ayuda a la IA para consultas puntuales.  
+ 
 Algunos de los prompts que usamos fueron:
 
 - *“Necesito crear una clase abstracta Jugador en Java con atributos privados nombre, dinero, partidasGanadas y métodos abstractos calcularApuesta y obtenerTipoJugador. ¿Cómo la armo?”*
