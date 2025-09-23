@@ -33,3 +33,8 @@ Algunos de los prompts que usamos fueron:
 “Cómo valido en Java que un apodo tenga entre 3 y 10 caracteres y solo letras y espacios usando regex.”
 “Quiero armar un historial de partidas con las últimas 5 jugadas, usando StringBuilder en el formato: PARTIDA #1 - Jugadores: ... | Ganador: ... | Rondas: x.”
 “Cómo puedo mostrar un ranking final de jugadores ordenado por dinero en Java.”
+
+
+
+Link de video de explicacion del proyecto:
+https://drive.google.com/file/d/133Ral2RXOAGvY2YLPE0On7tG_IFdqxY7/view?usp=drive_link
